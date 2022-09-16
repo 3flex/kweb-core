@@ -27,7 +27,7 @@ $dokka.location:kweb.client/ClientConnection.Caching/read/#/PointingToDeclaratio
 $dokka.location:kweb.client/ClientConnection.Caching/send/#kotlin.String/PointingToDeclaration/kweb-core/kweb.client/-client-connection/-caching/send.html
 $dokka.location:kweb.client/ClientConnection.Caching/size/#/PointingToDeclaration/kweb-core/kweb.client/-client-connection/-caching/size.html
 $dokka.location:kweb.client/ClientConnection.WebSocket///PointingToDeclaration/kweb-core/kweb.client/-client-connection/-web-socket/index.html
-$dokka.location:kweb.client/ClientConnection.WebSocket/WebSocket/#io.ktor.http.cio.websocket.WebSocketSession/PointingToDeclaration/kweb-core/kweb.client/-client-connection/-web-socket/-web-socket.html
+$dokka.location:kweb.client/ClientConnection.WebSocket/WebSocket/#io.ktor.websocket.WebSocketSession/PointingToDeclaration/kweb-core/kweb.client/-client-connection/-web-socket/-web-socket.html
 $dokka.location:kweb.client/ClientConnection.WebSocket/send/#kotlin.String/PointingToDeclaration/kweb-core/kweb.client/-client-connection/-web-socket/send.html
 $dokka.location:kweb.client/ClientConnection.WebSocket/sendCount/#/PointingToDeclaration/kweb-core/kweb.client/-client-connection/-web-socket/send-count.html
 $dokka.location:kweb.client/ClientConnection///PointingToDeclaration/kweb-core/kweb.client/-client-connection/index.html
@@ -41,7 +41,7 @@ $dokka.location:kweb.client/FunctionCall/js/#/PointingToDeclaration/kweb-core/k
 $dokka.location:kweb.client/FunctionCall/jsId/#/PointingToDeclaration/kweb-core/kweb.client/-function-call/js-id.html
 $dokka.location:kweb.client/FunctionCall/parameters/#/PointingToDeclaration/kweb-core/kweb.client/-function-call/parameters.html
 $dokka.location:kweb.client/HttpRequestInfo///PointingToDeclaration/kweb-core/kweb.client/-http-request-info/index.html
-$dokka.location:kweb.client/HttpRequestInfo/HttpRequestInfo/#io.ktor.request.ApplicationRequest/PointingToDeclaration/kweb-core/kweb.client/-http-request-info/-http-request-info.html
+$dokka.location:kweb.client/HttpRequestInfo/HttpRequestInfo/#io.ktor.server.request.ApplicationRequest/PointingToDeclaration/kweb-core/kweb.client/-http-request-info/-http-request-info.html
 $dokka.location:kweb.client/HttpRequestInfo/cookies/#/PointingToDeclaration/kweb-core/kweb.client/-http-request-info/cookies.html
 $dokka.location:kweb.client/HttpRequestInfo/remoteHost/#/PointingToDeclaration/kweb-core/kweb.client/-http-request-info/remote-host.html
 $dokka.location:kweb.client/HttpRequestInfo/request/#/PointingToDeclaration/kweb-core/kweb.client/-http-request-info/request.html
@@ -68,9 +68,9 @@ $dokka.location:kweb.config/KwebConfiguration/buildpageTimeout/#/PointingToDecla
 $dokka.location:kweb.config/KwebConfiguration/clientOfflineToastTextTemplate/#/PointingToDeclaration/kweb-core/kweb.config/-kweb-configuration/client-offline-toast-text-template.html
 $dokka.location:kweb.config/KwebConfiguration/clientStateStatsEnabled/#/PointingToDeclaration/kweb-core/kweb.config/-kweb-configuration/client-state-stats-enabled.html
 $dokka.location:kweb.config/KwebConfiguration/clientStateTimeout/#/PointingToDeclaration/kweb-core/kweb.config/-kweb-configuration/client-state-timeout.html
-$dokka.location:kweb.config/KwebConfiguration/faviconIco/#io.ktor.application.ApplicationCall/PointingToDeclaration/kweb-core/kweb.config/-kweb-configuration/favicon-ico.html
+$dokka.location:kweb.config/KwebConfiguration/faviconIco/#io.ktor.server.application.ApplicationCall/PointingToDeclaration/kweb-core/kweb.config/-kweb-configuration/favicon-ico.html
 $dokka.location:kweb.config/KwebConfiguration/onWebsocketMessageHandlingFailure/#java.lang.Exception/PointingToDeclaration/kweb-core/kweb.config/-kweb-configuration/on-websocket-message-handling-failure.html
-$dokka.location:kweb.config/KwebConfiguration/robotsTxt/#io.ktor.application.ApplicationCall/PointingToDeclaration/kweb-core/kweb.config/-kweb-configuration/robots-txt.html
+$dokka.location:kweb.config/KwebConfiguration/robotsTxt/#io.ktor.server.application.ApplicationCall/PointingToDeclaration/kweb-core/kweb.config/-kweb-configuration/robots-txt.html
 $dokka.location:kweb.config/KwebConfiguration/validate/#/PointingToDeclaration/kweb-core/kweb.config/-kweb-configuration/validate.html
 $dokka.location:kweb.config/KwebDefaultConfiguration///PointingToDeclaration/kweb-core/kweb.config/-kweb-default-configuration/index.html
 $dokka.location:kweb.config/KwebDefaultConfiguration/KwebDefaultConfiguration/#/PointingToDeclaration/kweb-core/kweb.config/-kweb-default-configuration/-kweb-default-configuration.html
@@ -343,7 +343,7 @@ $dokka.location:kweb.html/Window/onImmediate/#/PointingToDeclaration/kweb-core/
 $dokka.location:kweb.https////PointingToDeclaration/kweb-core/kweb.https/index.html
 $dokka.location:kweb.https//defaultKeyStore/#/PointingToDeclaration/kweb-core/kweb.https/default-key-store.html
 $dokka.location:kweb.https/SSLConfig///PointingToDeclaration/kweb-core/kweb.https/-s-s-l-config/index.html
-$dokka.location:kweb.https/SSLConfig/SSLConfig/#kotlin.Int#kotlin.String#java.security.KeyStore#java.io.File?#kotlin.String#kotlin.Function0[kotlin.CharArray]#kotlin.Function0[kotlin.CharArray]/PointingToDeclaration/kweb-core/kweb.https/-s-s-l-config/-s-s-l-config.html
+$dokka.location:kweb.https/SSLConfig/SSLConfig/#kotlin.Int#kotlin.String#java.security.KeyStore#java.io.File?#kotlin.String#kotlin.Function0[kotlin.CharArray]#kotlin.Function0[kotlin.CharArray]#java.security.KeyStore?#java.io.File?/PointingToDeclaration/kweb-core/kweb.https/-s-s-l-config/-s-s-l-config.html
 $dokka.location:kweb.https/SSLConfig/host/#/PointingToDeclaration/kweb-core/kweb.https/-s-s-l-config/host.html
 $dokka.location:kweb.https/SSLConfig/keyAlias/#/PointingToDeclaration/kweb-core/kweb.https/-s-s-l-config/key-alias.html
 $dokka.location:kweb.https/SSLConfig/keyStore/#/PointingToDeclaration/kweb-core/kweb.https/-s-s-l-config/key-store.html
@@ -351,6 +351,8 @@ $dokka.location:kweb.https/SSLConfig/keyStorePassword/#/PointingToDeclaration/k
 $dokka.location:kweb.https/SSLConfig/keyStorePath/#/PointingToDeclaration/kweb-core/kweb.https/-s-s-l-config/key-store-path.html
 $dokka.location:kweb.https/SSLConfig/port/#/PointingToDeclaration/kweb-core/kweb.https/-s-s-l-config/port.html
 $dokka.location:kweb.https/SSLConfig/privateKeyPassword/#/PointingToDeclaration/kweb-core/kweb.https/-s-s-l-config/private-key-password.html
+$dokka.location:kweb.https/SSLConfig/trustStore/#/PointingToDeclaration/kweb-core/kweb.https/-s-s-l-config/trust-store.html
+$dokka.location:kweb.https/SSLConfig/trustStorePath/#/PointingToDeclaration/kweb-core/kweb.https/-s-s-l-config/trust-store-path.html
 $dokka.location:kweb.https/SSLConfig/type/#/PointingToDeclaration/kweb-core/kweb.https/-s-s-l-config/type.html
 $dokka.location:kweb.plugins.fomanticUI////PointingToDeclaration/kweb-core/kweb.plugins.fomanticUI/index.html
 $dokka.location:kweb.plugins.fomanticUI//fomantic/#/PointingToDeclaration/kweb-core/kweb.plugins.fomanticUI/fomantic.html
@@ -617,7 +619,7 @@ $dokka.location:kweb.plugins.staticFiles/ResourceFolder/resourceFolder/#/Pointin
 $dokka.location:kweb.plugins.staticFiles/StaticFilesPlugin///PointingToDeclaration/kweb-core/kweb.plugins.staticFiles/-static-files-plugin/index.html
 $dokka.location:kweb.plugins.staticFiles/StaticFilesPlugin/StaticFilesPlugin/#java.io.File#kotlin.String/PointingToDeclaration/kweb-core/kweb.plugins.staticFiles/-static-files-plugin/-static-files-plugin.html
 $dokka.location:kweb.plugins.staticFiles/StaticFilesPlugin/StaticFilesPlugin/#kweb.plugins.staticFiles.ResourceFolder#kotlin.String/PointingToDeclaration/kweb-core/kweb.plugins.staticFiles/-static-files-plugin/-static-files-plugin.html
-$dokka.location:kweb.plugins.staticFiles/StaticFilesPlugin/appServerConfigurator/#io.ktor.routing.Routing/PointingToDeclaration/kweb-core/kweb.plugins.staticFiles/-static-files-plugin/app-server-configurator.html
+$dokka.location:kweb.plugins.staticFiles/StaticFilesPlugin/appServerConfigurator/#io.ktor.server.routing.Routing/PointingToDeclaration/kweb-core/kweb.plugins.staticFiles/-static-files-plugin/app-server-configurator.html
 $dokka.location:kweb.plugins.tablesort////PointingToDeclaration/kweb-core/kweb.plugins.tablesort/index.html
 $dokka.location:kweb.plugins.tablesort//sort/kweb.TableElement#/PointingToDeclaration/kweb-core/kweb.plugins.tablesort/sort.html
 $dokka.location:kweb.plugins.tablesort//tableSortPlugin/#/PointingToDeclaration/kweb-core/kweb.plugins.tablesort/table-sort-plugin.html
@@ -640,7 +642,7 @@ $dokka.location:kweb.plugins.viewport/ViewportWidth/text/#/PointingToDeclaration
 $dokka.location:kweb.plugins////PointingToDeclaration/kweb-core/kweb.plugins/index.html
 $dokka.location:kweb.plugins/KwebPlugin///PointingToDeclaration/kweb-core/kweb.plugins/-kweb-plugin/index.html
 $dokka.location:kweb.plugins/KwebPlugin/KwebPlugin/#kotlin.collections.Set[kweb.plugins.KwebPlugin]/PointingToDeclaration/kweb-core/kweb.plugins/-kweb-plugin/-kweb-plugin.html
-$dokka.location:kweb.plugins/KwebPlugin/appServerConfigurator/#io.ktor.routing.Routing/PointingToDeclaration/kweb-core/kweb.plugins/-kweb-plugin/app-server-configurator.html
+$dokka.location:kweb.plugins/KwebPlugin/appServerConfigurator/#io.ktor.server.routing.Routing/PointingToDeclaration/kweb-core/kweb.plugins/-kweb-plugin/app-server-configurator.html
 $dokka.location:kweb.plugins/KwebPlugin/decorate/#org.jsoup.nodes.Document/PointingToDeclaration/kweb-core/kweb.plugins/-kweb-plugin/decorate.html
 $dokka.location:kweb.plugins/KwebPlugin/dependsOn/#/PointingToDeclaration/kweb-core/kweb.plugins/-kweb-plugin/depends-on.html
 $dokka.location:kweb.plugins/KwebPlugin/elementCreationHook/#kweb.Element/PointingToDeclaration/kweb-core/kweb.plugins/-kweb-plugin/element-creation-hook.html
@@ -793,7 +795,7 @@ $dokka.location:kweb//img/kweb.ElementCreator[kweb.Element]#kotlin.collections.M
 $dokka.location:kweb//input/TypeParam(bounds=[kweb.html.events.OnImmediateReceiver[TypeParam(bounds=[kweb.InputEventsReceiver])]])#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/input.html
 $dokka.location:kweb//input/TypeParam(bounds=[kweb.html.events.OnReceiver[TypeParam(bounds=[kweb.InputEventsReceiver])]])#kotlin.Function1[kweb.html.events.Event,kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/input.html
 $dokka.location:kweb//input/kweb.ElementCreator[kweb.Element]#kotlin.collections.Map[kotlin.String,kotlinx.serialization.json.JsonPrimitive]#kweb.InputType?#kotlin.String?#kotlin.String?#kotlin.Int?#kotlin.String?#kotlin.Function1[kweb.ElementCreator[kweb.InputElement],kotlin.Unit]?/PointingToDeclaration/kweb-core/kweb/input.html
-$dokka.location:kweb//installKwebOnRemainingRoutes/io.ktor.application.Application#kotlin.Function1[kweb.WebBrowser,kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/install-kweb-on-remaining-routes.html
+$dokka.location:kweb//installKwebOnRemainingRoutes/io.ktor.server.application.Application#kotlin.Function1[kweb.WebBrowser,kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/install-kweb-on-remaining-routes.html
 $dokka.location:kweb//label/kweb.ElementCreator[kweb.Element]#kotlin.collections.Map[kotlin.String,kotlinx.serialization.json.JsonPrimitive]#kotlin.Function1[kweb.ElementCreator[kweb.LabelElement],kotlin.Unit]?/PointingToDeclaration/kweb-core/kweb/label.html
 $dokka.location:kweb//li/kweb.ElementCreator[kweb.Element]#kotlin.collections.Map[kotlin.String,kotlinx.serialization.json.JsonPrimitive]#kotlin.Function1[kweb.ElementCreator[kweb.LIElement],kotlin.Unit]?/PointingToDeclaration/kweb-core/kweb/li.html
 $dokka.location:kweb//meta/kweb.ElementCreator[kweb.Element]#kotlin.collections.Map[kotlin.String,kotlinx.serialization.json.JsonPrimitive]#kotlin.String#kotlin.String#kotlin.String?#kotlin.String?#kotlin.Function1[kweb.ElementCreator[kweb.MetaElement],kotlin.Unit]?/PointingToDeclaration/kweb-core/kweb/meta.html
@@ -809,8 +811,8 @@ $dokka.location:kweb//plus/kotlin.String#kweb.state.KVar[kotlin.String]/Pointing
 $dokka.location:kweb//plus/kweb.state.KVar[kotlin.String]#kotlin.String/PointingToDeclaration/kweb-core/kweb/plus.html
 $dokka.location:kweb//query/kweb.state.KVar[io.mola.galimatias.URL]#/PointingToDeclaration/kweb-core/kweb/query.html
 $dokka.location:kweb//renderEach/kweb.ElementCreator[*]#kweb.state.KVar[kotlin.collections.List[TypeParam(bounds=[kotlin.Any])]]#kotlin.Function2[kweb.ElementCreator[kweb.Element],kweb.state.KVar[TypeParam(bounds=[kotlin.Any])],kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/render-each.html
-$dokka.location:kweb//respondKweb/io.ktor.application.ApplicationCall#kotlin.Function1[kweb.WebBrowser,kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/respond-kweb.html
-$dokka.location:kweb//respondKwebRender/io.ktor.application.ApplicationCall#kotlin.Function2[kweb.ElementCreator[*],kotlin.collections.Map[kotlin.String,kweb.state.KVar[kotlin.String]],kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/respond-kweb-render.html
+$dokka.location:kweb//respondKweb/io.ktor.server.application.ApplicationCall#kotlin.Function1[kweb.WebBrowser,kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/respond-kweb.html
+$dokka.location:kweb//respondKwebRender/io.ktor.server.application.ApplicationCall#kotlin.Function2[kweb.ElementCreator[*],kotlin.collections.Map[kotlin.String,kweb.state.KVar[kotlin.String]],kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/respond-kweb-render.html
 $dokka.location:kweb//route/kweb.ElementCreator[*]#kotlin.Function1[kweb.routing.RouteReceiver,kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/route.html
 $dokka.location:kweb//section/kweb.ElementCreator[kweb.Element]#kotlin.collections.Map[kotlin.String,kotlinx.serialization.json.JsonPrimitive]#kotlin.Function1[kweb.ElementCreator[kweb.SectionElement],kotlin.Unit]?/PointingToDeclaration/kweb-core/kweb/section.html
 $dokka.location:kweb//select/kweb.ElementCreator[kweb.Element]#kotlin.collections.Map[kotlin.String,kotlinx.serialization.json.JsonPrimitive]#kotlin.String?#kotlin.Boolean?#kotlin.Function1[kweb.ElementCreator[kweb.SelectElement],kotlin.Unit]?/PointingToDeclaration/kweb-core/kweb/select.html
@@ -1043,7 +1045,7 @@ $dokka.location:kweb/Kweb.Feature.Configuration/debug/#/PointingToDeclaration/k
 $dokka.location:kweb/Kweb.Feature.Configuration/kwebConfig/#/PointingToDeclaration/kweb-core/kweb/-kweb/-feature/-configuration/kweb-config.html
 $dokka.location:kweb/Kweb.Feature.Configuration/plugins/#/PointingToDeclaration/kweb-core/kweb/-kweb/-feature/-configuration/plugins.html
 $dokka.location:kweb/Kweb.Feature///PointingToDeclaration/kweb-core/kweb/-kweb/-feature/index.html
-$dokka.location:kweb/Kweb.Feature/install/#io.ktor.application.Application#kotlin.Function1[kweb.Kweb.Feature.Configuration,kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/-kweb/-feature/install.html
+$dokka.location:kweb/Kweb.Feature/install/#io.ktor.server.application.Application#kotlin.Function1[kweb.Kweb.Feature.Configuration,kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/-kweb/-feature/install.html
 $dokka.location:kweb/Kweb.Feature/key/#/PointingToDeclaration/kweb-core/kweb/-kweb/-feature/key.html
 $dokka.location:kweb/Kweb///PointingToDeclaration/kweb-core/kweb/-kweb/index.html
 $dokka.location:kweb/Kweb/Kweb/#kotlin.Int#kotlin.Boolean#kotlin.collections.List[kweb.plugins.KwebPlugin]#io.ktor.server.engine.EngineSSLConnectorConfig?#kweb.config.KwebConfiguration#kotlin.Function1[kweb.WebBrowser,kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/-kweb/-kweb.html
@@ -1052,12 +1054,12 @@ $dokka.location:kweb/Kweb/callJs/#kotlin.String#kweb.client.FunctionCall#kweb.De
 $dokka.location:kweb/Kweb/clientState/#/PointingToDeclaration/kweb-core/kweb/-kweb/client-state.html
 $dokka.location:kweb/Kweb/close/#/PointingToDeclaration/kweb-core/kweb/-kweb/close.html
 $dokka.location:kweb/Kweb/debug/#/PointingToDeclaration/kweb-core/kweb/-kweb/debug.html
-$dokka.location:kweb/Kweb/determineClientPrefix/#io.ktor.application.ApplicationCall/PointingToDeclaration/kweb-core/kweb/-kweb/determine-client-prefix.html
+$dokka.location:kweb/Kweb/determineClientPrefix/#io.ktor.server.application.ApplicationCall/PointingToDeclaration/kweb-core/kweb/-kweb/determine-client-prefix.html
 $dokka.location:kweb/Kweb/kwebConfig/#/PointingToDeclaration/kweb-core/kweb/-kweb/kweb-config.html
 $dokka.location:kweb/Kweb/plugins/#/PointingToDeclaration/kweb-core/kweb/-kweb/plugins.html
 $dokka.location:kweb/Kweb/refreshAllPages/#/PointingToDeclaration/kweb-core/kweb/-kweb/refresh-all-pages.html
 $dokka.location:kweb/Kweb/removeCallback/#kotlin.String#kotlin.Int/PointingToDeclaration/kweb-core/kweb/-kweb/remove-callback.html
-$dokka.location:kweb/Kweb/respondKweb/#io.ktor.application.ApplicationCall#kotlin.Function1[kweb.WebBrowser,kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/-kweb/respond-kweb.html
+$dokka.location:kweb/Kweb/respondKweb/#io.ktor.server.application.ApplicationCall#kotlin.Function1[kweb.WebBrowser,kotlin.Unit]/PointingToDeclaration/kweb-core/kweb/-kweb/respond-kweb.html
 $dokka.location:kweb/Kweb/sendMessage/#kotlin.String#kweb.client.Server2ClientMessage/PointingToDeclaration/kweb-core/kweb/-kweb/send-message.html
 $dokka.location:kweb/LIElement///PointingToDeclaration/kweb-core/kweb/-l-i-element/index.html
 $dokka.location:kweb/LIElement/LIElement/#kweb.Element/PointingToDeclaration/kweb-core/kweb/-l-i-element/-l-i-element.html
